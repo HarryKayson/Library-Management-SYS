@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1628089316 source:c:\users\win 10 pro\desktop\project 1\libmanagementsystem\main.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<dos.h>
+	<time.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+
